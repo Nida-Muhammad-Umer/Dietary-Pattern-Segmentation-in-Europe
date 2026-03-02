@@ -1,6 +1,6 @@
-# 📊 PCA-Based Dietary Pattern Segmentation in Europe
+# Dietary Pattern Segmentation in Europe
 
-## 🔎 Project Summary
+## Project Summary
 
 European countries exhibit diverse dietary consumption patterns across multiple protein and staple food categories. However, analyzing 9 correlated nutritional variables independently makes cross-country comparison complex and noisy.
 
@@ -10,7 +10,7 @@ The analysis demonstrates how unsupervised learning can simplify multivariate da
 
 ---
 
-## 🎯 Objective
+## Objective
 
 - Reduce high-dimensional nutritional data into interpretable components  
 - Identify dominant dietary consumption patterns  
@@ -19,7 +19,7 @@ The analysis demonstrates how unsupervised learning can simplify multivariate da
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Countries:** 25 European nations  
 **Variables (9):**
@@ -38,7 +38,7 @@ Each column represents average protein intake from a specific food group.
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 1. Data loading and validation in R  
 2. Standardization of variables (scaling to remove unit bias)  
@@ -50,7 +50,7 @@ Each column represents average protein intake from a specific food group.
 
 ---
 
-## 📈 Results
+## Results
 
 ### Variance Explained
 
@@ -74,7 +74,7 @@ Each column represents average protein intake from a specific food group.
 
 ---
 
-## 🧠 Interpretation of Principal Components
+## Interpretation of Principal Components
 
 ### PC1 (44.5%) – Dietary Structure Dimension  
 Main contributors:
@@ -98,7 +98,7 @@ Southern European countries align more strongly with Fish and Fruit & Vegetables
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 - Scree Plot (Variance Explained)
 - PCA Biplot (Country Clustering + Variable Loadings)
@@ -107,7 +107,7 @@ These visualizations allow intuitive interpretation of multivariate structure an
 
 ---
 
-## 💡 Strategic Relevance
+## Strategic Relevance
 
 Although applied to nutritional data, this methodology demonstrates strong real-world applications:
 
@@ -125,7 +125,7 @@ Simplify complex datasets into 2–4 strategic indicators for dashboards and dec
 
 ---
 
-## 🛠 Tools & Techniques
+## Tools & Techniques
 
 - Principal Component Analysis (PCA)
 - Dimensionality Reduction
@@ -137,7 +137,7 @@ Simplify complex datasets into 2–4 strategic indicators for dashboards and dec
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 - Unsupervised Machine Learning
 - Statistical Modeling
@@ -148,7 +148,7 @@ Simplify complex datasets into 2–4 strategic indicators for dashboards and dec
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Nida Muhammad Umer**  
 Data Analyst | Statistical Machine Learning | Multivariate Analysis
